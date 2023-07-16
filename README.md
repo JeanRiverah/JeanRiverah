@@ -4,7 +4,7 @@
 **JeanRiverah/JeanRiverah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-It's Jean Pierre Rivera, I am a student of Economics at the Pontifica Universidad Católica del Perú. I am finishing my bachelor's degree and my professional interests are oriented to finance. 
+-It's Jean Pierre Rivera, I am a student of Economics at the Pontifica Universidad Católica del Perú. I am finishing my bachelor's degree and my professional interests are oriented to finance. 
 
 
 - 🔭 I’m currently working on ...
